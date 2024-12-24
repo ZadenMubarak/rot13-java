@@ -1,13 +1,9 @@
 public class Rot13{
 
     public static void main(String[] args){
-
-        // lets begin!!
-        // see you you guys when I am finished
-
+        // System.out.println(args[0]);
         rot13("Hello, world!");
-        // Code works now we push
-        
+
     }
 
     public static boolean StringIn(String word, String letter){
